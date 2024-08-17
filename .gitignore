@@ -1,0 +1,55 @@
+# Node modules
+node_modules/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment variables
+.env
+
+# Build output
+dist/
+build/
+out/
+
+# TypeScript cache
+*.tsbuildinfo
+
+# Debugging files
+.vscode/
+*.local
+
+# Dependency directories
+jspm_packages/
+typings/
+
+# IDE-specific files
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+.DS_Store
+
+# Coverage directory used by tools like istanbul
+coverage/
+
+# Temporary files
+tmp/
+temp/
+
+# Linting
+eslintcache
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache directory
+.eslintcache
+
+# Optional REPL history
+.node_repl_history
